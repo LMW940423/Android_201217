@@ -10,5 +10,3 @@
 -SelectDialog3 (체크 박스)
 -SelectDialog4 (xml Dialog)
 
-*아이콘 만들어주는 사이트
-Https://appicon.co/
